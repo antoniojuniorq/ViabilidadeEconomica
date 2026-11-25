@@ -1,0 +1,6 @@
+SQLAlchemy>=2.0
+pandas>=2.0
+scipy>=1.10
+# opcional, apenas se for usar Postgres em vez de SQLite:
+# psycopg2-binary>=2.9
+pytest>=8.0

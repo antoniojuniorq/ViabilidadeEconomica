@@ -1,0 +1,13 @@
+# Ambiente virtual e cache
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Arquivos gerados a cada execução (recriados pelo simulate.py)
+*.db
+resultados_bi.csv
+
+# Power BI e arquivos temporários do Office
+*.pbix
+~$*
